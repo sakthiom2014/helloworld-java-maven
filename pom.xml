@@ -5,6 +5,7 @@
   <artifactId>my-maven</artifactId>
   <packaging>jar</packaging>
   <version>9.0.0-SNAPSHOT</version>
+
   <name>my-maven</name>
   <url>http://maven.apache.org</url>
   <dependencies>
